@@ -23,7 +23,7 @@ MindCrack SUDOKU is aimed for entertaining people. Creating a game of Sudoku whi
 External link if you have one): -------
 <br>
 
-MindCrackSUDOKU Icon on Home Screen.
+MindCrackSUDOKU Home Screen.
 <a href="http://imgur.com/M9RIgdB"><img src="http://i.imgur.com/M9RIgdB.png?1" title="Hosted by imgur.com"/></a>
 <br>
 
