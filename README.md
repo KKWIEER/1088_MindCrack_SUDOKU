@@ -31,7 +31,7 @@ Playing screen
 <a href="http://imgur.com/2x3iWkC"><img src="http://i.imgur.com/2x3iWkC.png?1" title="Hosted by imgur.com"/></a>
 <br>
 
-Solutin Screen
+Solution Screen
 <a href="http://imgur.com/C4210MC"><img src="http://i.imgur.com/C4210MC.png?1" title="Hosted by imgur.com"/></a>
 
 Contact (email id or mailing list link/google-group):-
